@@ -1,0 +1,53 @@
+{
+
+    "güncelleme": "🔄 | Güncelleniyor...",
+
+    "yenilenio": "✅ | yenilendi!",
+
+    "indiriliyor": "🔄 | İşleniyor...",
+
+    "errorMsage": "❌ | Bir Hata Oluştu!",
+
+    "invalidFile": "❌ | Geçersiz Komut/Dosya!",
+
+    "langSet": "🗣 | Dil %s Olarak Ayarlandı!",
+
+    "loopOff": "🔂 | Müzik Döngüsü Devre Dışı!",
+
+    "loopOn": "🔂 | Müzik Döngüsü Etkin!",
+
+    "audioMo": "🎧 | Audio Mo Etkinleştirildi!",
+
+    "vioMo": "🎥 | Vio Mo Etkinleştirildi!",
+
+    "notFound": "❌ | Bulunamadı, Tekrar Deneyin!",
+
+    "notActive": "❌ | Aktif Grup Çağrısı Yok!",
+
+    "notPlaying": "❌ | Hiçbir Şey Oynamıyor!",
+
+    "oynanıyor": "▶️ [%s](%s)\n⏱ Süre: %s\n💬 Oynanıyor: %s\n🎧 Talep Eden: %s",
+
+    "duraklatıldı": "⏸ | Akış Duraklatıldı!",
+
+    "rumed": "▶️ | Rumed Akışı!",
+
+    "sessiz": "🔇 | Sessiz Akış!",
+
+    "sessizleştirildi": "🔈 | Yayının Sesi Açıldı!",
+
+    "leaveVC": "⏹ | Vio Chat'ten Kaldı!",
+
+    "queueEmy": "⏺ | Queue Is Emy!",
+
+    "queueExported": "✅ | %d Şarkı Dışa Aktarıldı!",
+
+    "queueImported": "✅ | %d Şarkı İçe Aktarıldı!",
+
+    "replyToAFile": "👀 | Bir Ses/Görüntüye Yanıt Ver!",
+
+    "addToQueue": "➕ | [%s](%s) %d Konumunda Kuyruğa Alındı!",
+
+    "helpText": "🤖 Kullanılabilir Komutlar:\n\n• <prefix>ping\nKullanım: canlı olup olmadığını kontrol edin\n\n• <prefix>repo\nKullanım: bot kaynağını göster\n\n• <prefix >start | <prefix>help\nKullanım: komutlar için yardımı göster\n\n• <prefix>mo | <prefix>swch\nKullanım: akışı mo (ses/görüntü) değiştir\n\n• <prefix>p | <prefix>play [şarkı adı | youtube bağlantısı]\nKullanım: zaten çalıyorsa vc'de bir şarkı çal\n\n• <prefix>radyo | <prefix>akış [radyo url | akış bağlantısı]\nKullanım : vc'de canlı yayın oynat, zaten oynuyorsa sıraya ekle\n\n• <prefix>pl | <prefix>oynatma listesi [youtube oynatma listesi bağlantısı]\nKullanım: tüm youtube oynatma listesini bir kerede oynat\n\n• <prefix >atla | <prefix>sonraki\nKullanım: sonraki şarkıya atla\n\n• <prefix>m | <prefix>mute\nKullanım: akım akışını sessize al\n\n• <prefix>um | <prefix>sesi aç \nKullanım: sessize alınan akışın sesini açın\n\n• <prefix>ps | <prefix>duraklat\nKullanım: güncel akışı duraklatın\n\n• <prefix>rs | <prefix>rume\nKullanım: duraklatılmış akışı rume\n n\n• <prefix>list | <prefix>kuyruk\nKullanım: q'daki şarkıları göster ueue\n\n• <prefix>karıştır | <prefix>karıştır\nKullanım: sıraya alınmış çalma listesini karıştır\n\n• <prefix>döngüsü | <prefix>repeat\nKullanım: mo\n\n• döngüsünü etkinleştirebilir veya devre dışı bırakabilir\n\n• <prefix>lang | dil [dil ortak]\nKullanım: bir grupta bot dilini ayarlayın\n\n• <prefix>ip | <prefix>içe aktar\nKullanım: dışa aktarılan dosyada içe aktarma kuyruğu\n\n• <prefix>ep | <prefix>dışa aktar\nKullanım: kuyruğu gelecekte içe aktarmak üzere dışa aktar\n\n• <prefix>dur | <prefix>ayrıl\nKullanım: om vc'den ayrılın ve kuyruğu temizleyin\n\n• <prefix>rtart | <prefix>güncelleme\nKullanım: müzik çalarınızı yeniden başlatın ve güncelleyin\n\n"
+
+}

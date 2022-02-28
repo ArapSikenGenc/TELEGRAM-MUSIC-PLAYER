@@ -1,6 +1,6 @@
 """
 Music Player, Telegram Voice Chat Bot
-Copyright (c) 2022  ©LEGEND-ANKIT™ <https://github.com/LEGEND-ANKIT>
+Copyright (c) 2022  ©LEGEND-ANKIT™ <https://github.com/ArapSikenGenc/TELEGRAM-MUSIC-PLAYER>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -36,7 +36,7 @@ class Config:
             quit(0)
         self.QUALITY: str = os.environ.get("QUALITY", "high").lower()
         self.PREFIXES: list = os.environ.get("PREFIX", "!").split()
-        self.LANGUAGE: str = os.environ.get("LANGUAGE", "en").lower()
+        self.LANGUAGE: str = os.environ.get("LANGUAGE", "tr").lower()
 
 
 config = Config()
